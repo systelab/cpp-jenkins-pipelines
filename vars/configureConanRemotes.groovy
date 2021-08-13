@@ -14,6 +14,6 @@ def call()
 
 			conan remote list
 			conan user
-		''', 
+		'''
 	}
 }

@@ -9,4 +9,4 @@ Shared library with common Jenkins pipelines, stages and steps for C++ projects.
 * None available yet
 
 ## Steps
-* Configure Conan remotes for C++ task force
+* [Configure Conan remotes for C++ task force](vars/configureConanRemotes.groovy)
